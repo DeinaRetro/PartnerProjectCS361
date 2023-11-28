@@ -36,6 +36,7 @@ Any changes made return an HTML Response body (other than DELETE, which only sen
 A 200 status code means changes were successful, a 404 is not found, and a 400 is a bad request.
 
 UML Sequence Diagram:
+
 ![CS361Microservice](https://github.com/DeinaRetro/PartnerProjectCS361/assets/86344289/12b67896-c8af-4084-ba45-9b2054317bd1)
 
 
